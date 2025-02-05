@@ -15,8 +15,8 @@ Imagen del Portafolio:
 
 ## ✔️ Técnicas y tecnologías utilizadas
 
-- `HTML`: Esta opcion del Menu permite estar en el Home del sitio.
-- `CSS`: Esta opcion del Menu permite ir a la seccio
+- `HTML`: Lenguaje de marcado de hipertexto utilizado para definir la estructura y el contenido de una pagina web.
+- `CSS`: Lenguaje de hojas de estilo para definir la apariencia de un documento HTML.
 
 
 ## 📁 Acceso al proyecto
